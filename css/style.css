@@ -355,7 +355,7 @@ ol {
 -----------------------*/
 
 .hs-item {
-	min-height: 760px;
+	min-height: 100%;
 	position: relative;
 	display: table;
 	width: 100%;
