@@ -1,0 +1,84 @@
+/* NAvbar  */
+
+/* for menu favicons */
+.fa-bars{
+  color: white;
+}
+
+.header-section{
+  padding: 0;
+}
+
+.nav-section{
+  margin: 0;
+  display: flex;
+}
+
+.menu-section{
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+@media(max-width:768px){
+  .nav-section{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+  }
+
+  .menu-section{
+    margin-left: unset;
+    margin-right: 20px;
+  }
+
+  .site-logo{
+    padding: 5px 0;
+  }
+
+  .site-logo img{
+    margin-left: 0 !important;
+  }
+}
+
+.nav-section{
+  padding: 10px;
+  flex: 1;
+}
+
+
+/* hero section  */
+
+/* .hero-section{
+  height: 50px !important; 
+} */
+
+
+
+
+/* about us section  */
+
+.service-section{
+  background: url(../img/hero-slider/static-layer.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.about-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.about-card{
+  min-height: 220px;
+  background: #e3e5ff9f;
+  padding: 40px ;
+  margin: 20px 10px;
+  border-radius: 16px;
+  box-shadow: 10px 10px 0 #2222fc49;
+}
+
+.about-card p {
+  min-height: 150px;
+}
