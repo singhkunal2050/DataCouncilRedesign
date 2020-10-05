@@ -13,6 +13,10 @@ h1,h2,h3,h4{
 
 /* NAvbar  */
 
+.nav-section{
+  /* background: #01012e !important; */
+}
+
 /* for menu favicons */
 .fa-bars{
   color: white;
@@ -80,18 +84,24 @@ h1,h2,h3,h4{
 .about-container{
   display: flex;
   justify-content: space-evenly;
-  align-items: center;
+  align-items: stretch;
 }
 
 .about-card{
-  min-height: 220px;
   background: #e3e5ff9f;
-  padding: 40px ;
+  padding: 40px 40px 20px  ;
   margin: 20px 10px;
   border-radius: 16px;
   box-shadow: 10px 10px 1px #2222fc49;
+  transition: ease-in-out 300ms;
 }
 
-.about-card p {
-  min-height: 150px;
+.about-card:hover , .about-card:active{
+  background: #c3c6ff85;
+  transition: ease-in-out 300ms;
+  transform: scale(1.05);
 }
+
+
+
+/* COurses section  */

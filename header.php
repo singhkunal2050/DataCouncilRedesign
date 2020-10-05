@@ -11,7 +11,7 @@
 
 		<nav class="nav-section">
 		<a href="index.php" class="site-logo">
-			<img src="img/logo2.png" width="100px" alt="" style="margin: 0 0 0 40px">
+			<img src="img/logo3.png" width="100px" alt="" style="margin: 0 0 0 40px">
 		</a>
 			<div class="nav-switch">
 				<i class="fa fa-bars"></i>
