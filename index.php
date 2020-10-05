@@ -22,7 +22,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 	<link rel="stylesheet" href="css/owl.carousel.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
 	<link rel="stylesheet" href="css/main.css"/>
-
+	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 	<style type="text/css">
    .card-header{background-color: #040080;color:white;}
@@ -91,7 +91,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 				<p>We provides the opportunity to prepare for life</p>
 			</div>
 			<div class="row about-container">
-				<div class="col-lg-4 col-sm-10 service-item about-card">
+				<div class="col-lg-4 col-sm-10 service-item about-card" data-aos="flip-down">
 					<div class="service-icon">
 						<img src="img/services-icons/1.png" alt="1">
 					</div>
@@ -100,7 +100,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 						<p>To generate new knowledge by any filed in cutting-edge of programing Devlopments.It will be help you project Devlopments.</p>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-10 service-item about-card">
+				<div class="col-lg-4 col-sm-10 service-item about-card" data-aos="flip-down">
 					<div class="service-icon">
 						<img src="img/services-icons/2.png" alt="1">
 					</div>
@@ -109,7 +109,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 						<p>To provide professionally competent faculty and staff. To demonstrate excellent and effective teaching.</p>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-10 service-item about-card">
+				<div class="col-lg-4 col-sm-10 service-item about-card" data-aos="flip-down">
 					<div class="service-icon">
 						<img src="img/services-icons/3.png" alt="1">
 					</div>
@@ -118,7 +118,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 						<p>Create a platform for faculty and students to learn the advances in the any field and meet the challenges in the outside world.</p>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-10 service-item about-card">
+				<div class="col-lg-4 col-sm-10 service-item about-card" data-aos="flip-down">
 					<div class="service-icon">
 						<img src="img/services-icons/4.png" alt="1">
 					</div>
@@ -127,7 +127,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 						<p>We have very qualified team for teaching to our valueable students.</p>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-10 service-item about-card">
+				<div class="col-lg-4 col-sm-10 service-item about-card" data-aos="flip-down">
 					<div class="service-icon">
 						<img src="img/services-icons/5.png" alt="1">
 					</div>
@@ -136,7 +136,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 						<p>We have many batches for multiple subject. thats why we can provide you the most flaxible timing of batches.</p>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-10 service-item about-card">
+				<div class="col-lg-4 col-sm-10 service-item about-card" data-aos="flip-down">
 					<div class="service-icon">
 						<img src="img/services-icons/6.png" alt="1">
 					</div>
@@ -262,5 +262,11 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 });
 });
 </script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+
 </body>
 </html>
