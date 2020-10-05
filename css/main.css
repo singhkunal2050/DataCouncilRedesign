@@ -76,7 +76,7 @@
   padding: 40px ;
   margin: 20px 10px;
   border-radius: 16px;
-  box-shadow: 10px 10px 0 #2222fc49;
+  box-shadow: 10px 10px 1px #2222fc49;
 }
 
 .about-card p {
