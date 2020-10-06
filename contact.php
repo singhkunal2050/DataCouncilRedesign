@@ -18,6 +18,9 @@
 	<link rel="stylesheet" href="css/themify-icons.css"/>
 	<link rel="stylesheet" href="css/owl.carousel.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="css/main.css"/>
+
+
    <style type="text/css">
    .card-header{background-color: #040080;color:white;}
    .card{border:2px solid #040080}

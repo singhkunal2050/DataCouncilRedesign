@@ -20,6 +20,7 @@
 	<link rel="stylesheet" href="css/animate.css"/>
 	<link rel="stylesheet" href="css/owl.carousel.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="css/main.css"/>
 
 <style type="text/css">
 	.min-hight{min-height:100%}

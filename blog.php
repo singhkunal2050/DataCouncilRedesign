@@ -18,6 +18,7 @@
 	<link rel="stylesheet" href="css/themify-icons.css"/>
 	<link rel="stylesheet" href="css/owl.carousel.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="css/main.css"/>
 
 
 	<!--[if lt IE 9]>

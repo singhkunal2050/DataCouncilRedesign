@@ -21,7 +21,7 @@
 			<!-- <div class="nav-right"></div> -->
 			<div id="main-menu">
 				<ul class="main-menu">
-					<li class=" bt"><a href="index.php">Home</a></li>
+					<li><a  class="bt" href="index.php">Home</a></li>
 					<li><a  class="bt" href=" about.php">About Us</a></li>
 					<li><a  class="bt" href="course.php">COURSES</a></li>
 					<li><a  class="bt" href="gallery.php">Gallery</a></li>

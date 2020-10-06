@@ -50,7 +50,7 @@
 				<!-- widget -->
 				<div class="col-sm-6 col-lg-3 footer-widget">
 					<div class="about-widget">
-						<img src="img/logo.png" width="100px" alt="" style="background-color: white">
+						<img src="img/logo3.png" width="100px" alt="">
 						<p>Data Council since 6 years very efficiently providing a fully integrated Training & Placement service on Software Technologies to thousands fresh technical graduates from various technical colleges of India.</p>
 						<div class="social pt-1">
 							<a href=""><i class="fa fa-twitter-square"></i></a>
