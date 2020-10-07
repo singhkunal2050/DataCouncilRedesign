@@ -63,7 +63,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 						<div class="qualities">
 							<p> <span class="mdi mdi-step-forward"></span>One to One Training</p>
 							<p> <span class="mdi mdi-step-forward"></span>Personalsed Projects</p>
-							<p> <span class="mdi mdi-step-forward"></span>Direct Placements and Internships</p>
+							<p> <span class="mdi mdi-step-forward"></span>Doubt Solving and Discussions</p>
 							<p> <span class="mdi mdi-step-forward"></span>Expert Instructors</p>
 							<p> <span class="mdi mdi-step-forward"></span>Career Counceling and Training</p>
 						</div>
