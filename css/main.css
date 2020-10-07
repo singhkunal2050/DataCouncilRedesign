@@ -1,0 +1,274 @@
+/* importing fonts update  */
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto&display=swap');
+
+
+*{
+  font-family: 'Roboto';
+}
+
+/* CSS Debug components  */
+
+/* 
+* {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+} */
+
+h1,h2,h3,h4{
+  font-family: 'Abril Fatface', cursive;
+}
+
+
+/* NAvbar  */
+
+.nav-section{
+  background: #00003af1 !important;
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+}
+
+/* hero  */
+
+.hero-section{
+  margin-top: 86px;
+}
+
+.hero_container{
+  background: linear-gradient(100deg , #d2d2ff , #f8fff3 , #d7d7fa );
+  /* height: 90vh; */
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 85px !important;
+}
+
+/* floating  */
+
+.floating {  
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+@keyframes floating {
+  from { transform: translate(0,  0px); }
+  65%  { transform: translate(0, 25px); }
+  to   { transform: translate(0, -0px); }    
+}
+
+
+.hero_left{
+  /* background: chartreuse; */
+  margin: 20px;
+  padding: 40px 0 40px 40px;
+  flex: 1;
+}
+
+.hero_left h1{
+  padding: 10px 0;
+}
+
+.qualities{
+  margin-left: 20px;
+  padding: 10px;
+}
+
+
+.hero_left .qualities p{
+  line-height: .8;
+  font-size: 1.2em;
+}
+
+.main-btn{
+  padding: 10px 20px !important;
+  border-radius: 24px;
+  background: #00003af1;
+  border: none;
+  box-shadow: 2px 2px 0 rgb(0, 132, 255);
+}
+
+.hero_right{
+  /* background: rgb(0, 81, 255); */
+  margin: 20px;
+  padding: 20px 0;
+}
+
+.img_container{
+  /* background: red; */
+  width: 400px;
+}
+
+@media(max-width:768px){
+  .hero_container{
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .hero_left{
+    padding: 0;
+  }
+
+  .hero_right{
+    padding: 0;
+    margin: 20px;
+  }
+
+  .img_container{
+    height: 250px !important; 
+    width: 250px !important;
+  }
+  
+  .qualities{
+    margin: unset;
+  }
+
+  .hero_left h1{
+    margin: unset;
+    font-size: 2em;
+  }
+
+  .hero_left .qualities p{
+    font-size: 1em;
+  }
+}
+
+
+
+/* for menu favicons */
+.fa-bars{
+  color: white;
+}
+
+.header-section{
+  padding: 0 !important;
+}
+
+.nav-section{
+  margin: 0;
+  display: flex;
+}
+
+.menu-section{
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+@media(max-width:768px){
+  .nav-section{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+  }
+  
+  .menu-section{
+    margin-left: unset;
+    margin-right: 20px;
+  }
+  
+  .site-logo{
+    padding: 5px 0;
+  }
+  
+  .site-logo img{
+    margin-left: 0 !important;
+  } 
+
+  .bt{
+    padding: 10px !important;
+  }
+}
+
+.nav-section{
+  padding: 10px;
+  flex: 1;
+}
+
+
+
+/* hero section  */
+
+/* .hero-section{
+  height: 50px !important; 
+} */
+
+
+
+
+/* about us section  */
+
+.service-section{
+  background: url(../img/hero-slider/static-layer.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.about-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: stretch;
+}
+
+.about-card{
+  background: #e3e5ff9f;
+  padding: 40px 40px 20px  ;
+  margin: 20px 10px;
+  border-radius: 16px;
+  box-shadow: 10px 10px 1px #2222fc49;
+  transition: ease-in-out 300ms;
+}
+
+.about-card:hover , .about-card:active{
+  background: #c3c6ff85;
+  transition: ease-in-out 300ms;
+  transform: scale(1.05);
+}
+
+
+
+/* COurses section  */
+
+.courses-section{
+  background: #ff340144;
+  background-image: url(../img/hero-slider/static-layer2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* background-blend-mode: soft-light; */
+}
+
+.course-card{
+  background: #ff8d6049;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid #c2c2c269 !important;
+  -webkit-box-shadow: 5px 11px 5px -3px rgba(59,59,59,0.46);
+  -moz-box-shadow: 5px 11px 5px -3px rgba(59,59,59,0.46);
+  box-shadow: 5px 11px 5px -3px rgba(59,59,59,0.46);
+  min-height: 600px;
+}
+
+.card-header{
+  background: rgb(255, 72, 0) !important;
+  box-shadow: -20px 0 0 rgb(255, 106, 37);
+}
+
+
+
+/* -------------back to top btn  */
+
+
+#myBtn{
+  background: royalblue !important;
+  padding: 10px 15px;
+  border-radius: 50% !important;
+  /* margin-right: 20px !important; */
+}
