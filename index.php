@@ -3,6 +3,7 @@
 <head>
 	<title>Datacouncil</title>
 	<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<meta name="description"  content="Looking for Php Training in Pune, lotus it hub is the best providing Php Classes In Pune. Get live PHP projects and PHP and get Best PHP Coaching in Karve Nagar. Courses available on Android, iOS, Web Design, AngularJS, Java, Software Testing and Digital Marketing in Pune | SourceKode Training Institute" />
 	<meta name="keywords" content="Php Training In Pune, Php Courses In Pune, Php Classes In Pune, Php Training Institute In Karve Nagar , Android Training Institute,iPhone Training Institute,Mobile Development Training institute, web development training, php training institute
@@ -23,6 +24,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 	<link rel="stylesheet" href="css/style.css"/>
 	<link rel="stylesheet" href="css/main.css"/>
 	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.6.55/css/materialdesignicons.css">
 
 	<style type="text/css">
    .card-header{background-color: #040080;color:white;}
@@ -42,9 +44,8 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 	<?php include "header.php"?>
 
 	<!-- Hero section -->
-	<section class="hero-section" >
+	<!-- <section class="hero-section" >
 		<div class="hero-slider owl-carousel" style="height:auto;">
-				<div class="hs-item set-bg" data-setbg="img/hero-slider/1.jpg"></div>
 				<div class="hs-item set-bg" data-setbg="img/hero-slider/2.jpg"></div>
 				<div class="hs-item set-bg" data-setbg="img/hero-slider/3.jpg"></div>
 				<div class="hs-item set-bg" data-setbg="img/hero-slider/4.jpg"></div>
@@ -52,10 +53,31 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 				<div class="hs-item set-bg" data-setbg="img/hero-slider/6.jpg"></div>
 				<div class="hs-item set-bg" data-setbg="img/hero-slider/7.jpg"></div>
 			</div>
-	</section>
+	</section> -->
 	<!-- Hero section end -->
 
-
+	<!-- New Hero section  -->
+		<div class="hero_container">
+				<div class="hero_left">
+						<h1>Get Enrolled Today!</h1>
+						<div class="qualities">
+							<p> <span class="mdi mdi-step-forward"></span>One to One Training</p>
+							<p> <span class="mdi mdi-step-forward"></span>Personalsed Projects</p>
+							<p> <span class="mdi mdi-step-forward"></span>Direct Placements and Internships</p>
+							<p> <span class="mdi mdi-step-forward"></span>Expert Instructors</p>
+							<p> <span class="mdi mdi-step-forward"></span>Career Counceling and Training</p>
+						</div>
+						<!-- <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus delectus voluptatum animi rerum doloribus doloremque error pariatur vero neque corporis!</p> -->
+						<button class="btn-primary main-btn">Enroll Now</button>
+				</div>					
+				<div class="hero_right">
+						<div class="img_container floating"  style="height:400px; width:400px">
+							<img src="img/hero-slider/440.png" height="100%" alt="">
+						</div>
+				</div>					
+		</div>
+	<!-- New Hero section end -->
+		
 	<!-- Counter section  -->
 	<!-- <section class="counter-section">
 		<div class="container">
@@ -266,7 +288,6 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
   <script>
     AOS.init();
   </script>
-
 
 </body>
 </html>
