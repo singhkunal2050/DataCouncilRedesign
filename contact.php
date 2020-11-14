@@ -42,8 +42,9 @@
 	
 
 
+		<div class="courses-section">
      <div class="container" style="margin-top:50px">
-        <div class="section-title text-center" style="margin-top:120px">
+        <div class="section-title text-center" style="margin-top:80px; padding-top:40px;">
                 <h3>Contact Us</h3>
         </div>
      	<div class="row">
@@ -129,13 +130,11 @@
 
      	</div>
      </div>
-
+		</div>
 	<!-- Courses section -->
-	<section class="contact-page spad pt-0">
+	<section class="service-section spad pt-0">
 		<div class="container">
-			
-
-		<div class="row">	
+			<div class="row">	
 		   <div class="col-lg-6">
 			<div class="contact-form spad pb-0">
 				<div class="section-title text-center">
