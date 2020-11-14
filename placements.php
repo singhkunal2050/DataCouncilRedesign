@@ -34,54 +34,55 @@
   
   
 
-  <div class="container" style="margin-top:50px">
-    <div class="section-title text-center">
-                <h3>Placements</h3>
-            </div>
-  	 <div class="row">
-        <div class="col-sm-3">
-        	<img src="img/placements/1.png" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/2.png" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/3.png" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/4.png" class="min-hight" alt="">
-        </div>
-     </div>
+  <div class="service-section" style="margin-top:80px">
+		<div class="container" style="padding:40px 0;">
+			<div class="section-title text-center">
+									<h3>Placements</h3>
+							</div>
+			<div class="row">
+					<div class="col-sm-3">
+						<img src="img/placements/1.png" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/2.png" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/3.png" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/4.png" class="min-hight" alt="">
+					</div>
+			</div>
+			<div class="row">
+					<div class="col-sm-3">
+						<img src="img/placements/5.png" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/6.png" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/7.png" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/8.png" class="min-hight" alt="">
+					</div>
+			</div>
 
-     <div class="row">
-        <div class="col-sm-3">
-        	<img src="img/placements/5.png" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/6.png" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/7.png" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/8.png" class="min-hight" alt="">
-        </div>
-     </div>
-
-     <div class="row">
-        <div class="col-sm-3">
-        	<img src="img/placements/9.png" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/10.png" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/11.png" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/placements/12.png" class="min-hight" alt="">
-        </div>
-     </div>
+			<div class="row">
+					<div class="col-sm-3">
+						<img src="img/placements/9.png" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/10.png" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/11.png" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/placements/12.png" class="min-hight" alt="">
+					</div>
+			</div>
+		</div>
   </div>
 
 	

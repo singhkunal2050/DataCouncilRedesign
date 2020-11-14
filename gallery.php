@@ -35,54 +35,56 @@
 
 	
 
-  <div class="container" style="margin-top:50px">
-    <div class="section-title text-center">
-                <h3>Our Gallery</h3>
-            </div>
-  	 <div class="row" style="margin-bottom:10px">
-        <div class="col-sm-3">
-        	<img src="img/gallery/1.jpg" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/2.jpg" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/3.jpg" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/4.jpg" class="min-hight" alt="">
-        </div>
-     </div>
+  <div class="service-section" style="margin-top:80px">
+		<div class="container" style="padding:40px 0;">
+			<div class="section-title text-center" >
+									<h3>Our Gallery</h3>
+							</div>
+			<div class="row" style="margin-bottom:10px">
+					<div class="col-sm-3">
+						<img src="img/gallery/1.jpg" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/2.jpg" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/3.jpg" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/4.jpg" class="min-hight" alt="">
+					</div>
+			</div>
 
-     <div class="row" style="margin-bottom:10px">
-        <div class="col-sm-3">
-        	<img src="img/gallery/5.jpg" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/6.jpg" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/7.jpg" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/8.jpg" class="min-hight" alt="">
-        </div>
-     </div>
+			<div class="row" style="margin-bottom:10px">
+					<div class="col-sm-3">
+						<img src="img/gallery/5.jpg" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/6.jpg" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/7.jpg" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/8.jpg" class="min-hight" alt="">
+					</div>
+			</div>
 
-     <div class="row">
-        <div class="col-sm-3">
-        	<img src="img/gallery/14.jpg" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/10.jpg" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/17.jpg" class="min-hight" alt="">
-        </div>
-        <div class="col-sm-3">
-        	<img src="img/gallery/12.jpg" class="min-hight" alt="">
-        </div>
-     </div>
+			<div class="row">
+					<div class="col-sm-3">
+						<img src="img/gallery/14.jpg" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/10.jpg" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/17.jpg" class="min-hight" alt="">
+					</div>
+					<div class="col-sm-3">
+						<img src="img/gallery/12.jpg" class="min-hight" alt="">
+					</div>
+			</div>
+		</div>
   </div>
 
 	

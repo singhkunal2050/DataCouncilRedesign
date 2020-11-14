@@ -36,8 +36,8 @@
 	
 		<?php include "header.php"?>
 
-
-	
+	<div style="margin-top:80px">
+	</div>
 	<?php include('courseboxes.php')?>
 	
 	<!-- Fact section -->

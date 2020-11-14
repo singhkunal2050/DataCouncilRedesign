@@ -43,7 +43,7 @@
 
 
      <div class="container" style="margin-top:50px">
-        <div class="section-title text-center">
+        <div class="section-title text-center" style="margin-top:120px">
                 <h3>Contact Us</h3>
         </div>
      	<div class="row">

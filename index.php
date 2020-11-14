@@ -58,7 +58,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 
 	<!-- New Hero section  -->
 		<div class="hero_container">
-				<div class="hero_left">
+				<div class="hero_left" data-aos="fade-right">
 						<h1>Get Enrolled Today!</h1>
 						<div class="qualities">
 							<p> <span class="mdi mdi-step-forward"></span>One to One Training</p>
@@ -70,7 +70,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 						<!-- <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus delectus voluptatum animi rerum doloribus doloremque error pariatur vero neque corporis!</p> -->
 						<button class="btn-primary main-btn">Enroll Now</button>
 				</div>					
-				<div class="hero_right">
+				<div class="hero_right" data-aos="fade-left">
 						<div class="img_container floating"  style="height:400px; width:400px">
 							<img src="img/hero-slider/440.png" height="100%" alt="">
 						</div>
@@ -184,7 +184,7 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
     <?php include('courseboxes.php')?>
 	
 	<!-- Fact section -->
-	<section class="fact-section spad set-bg" data-setbg="img/fact-bg.jpg">
+	<section class="fact-section spad set-bg" data-setbg="img/fact-bg.jpg" >
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 col-lg-3 fact">
@@ -259,7 +259,9 @@ Best android institute  in pune India,Best  institute for iPhone in india, corpo
 </script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
-    AOS.init();
+		$(function(){
+			AOS.init();
+		})
   </script>
 
 </body>

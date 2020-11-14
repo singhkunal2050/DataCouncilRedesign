@@ -34,9 +34,9 @@
 
 
 	<!-- About section -->
-	<section class="about-section spad pt-0" style="margin-top:50px">
+	<section class="about-section spad pt-0" style="">
 		<div class="container">
-			<div class="section-title text-center">
+			<div class="section-title text-center" style="margin-top:120px">
 				<h3>WELCOME TO Datacouncil</h3>
 				<p>Some Information About Us</p>
 			</div>

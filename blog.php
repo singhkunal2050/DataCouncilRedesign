@@ -38,7 +38,7 @@
 
 	<!-- Blog page section  -->
 	<section class="blog-page-section spad pt-0" style="margin-top:50px">
-		<div class="section-title text-center">
+		<div class="section-title text-center" style="margin-top:120px">
 				<h3>Blog</h3>
 			</div>
 		<div class="container">
